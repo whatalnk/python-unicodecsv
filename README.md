@@ -2,6 +2,10 @@
 
 A wrapper of Python2's csv module to handle UTF-8 csv files, originally implemented in https://docs.python.org/2.7/library/csv.html. 
 
+## Installation (Jython of Fiji / ImageJ)
+
+1. Place this directory under `Fiji.app/jars/Lib` 
+
 ## Usage
 
 ```python
